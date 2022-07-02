@@ -1,0 +1,38 @@
+/* Container pai dos inputs */
+
+.form-input-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Inputs */
+
+.form-input {
+    width: 300px;
+    height: 40px;
+    padding: 10px 20px;
+    border-style: none;
+    background-color: var(--icon-color);
+}
+
+/* Buttons */
+
+.form-button {
+    width: 140px;
+    height: 40px;
+    border-style: none;
+    border-radius: 50px;
+    border: 2px solid var(--primary-color);
+    background-color: transparent;
+    font-size: 1rem;
+    font-weight: 800;
+    color: var(--primary-color);
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+.form-button:hover {
+    background-color: var(--primary-color); 
+    color: #fff;
+}

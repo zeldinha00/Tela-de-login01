@@ -5,8 +5,8 @@
 ## Tarefas
 
 ▶ Projeto no figma
-:point_right: https://www.figma.com/file/2v1kiXUASdj7r84GnbJAFT/login-youtube
-:point_right: O controle das tarefas desse projeto será realizado no GitHub. 
+- :point_right: https://www.figma.com/file/2v1kiXUASdj7r84GnbJAFT/login-youtube
+- :point_right: O controle das tarefas desse projeto será realizado no GitHub. 
 
 ## Ícones
 - :package: Nova funcionalidade
@@ -15,4 +15,4 @@
 - :checkered_flag: release
 
 ##
-:point_right: https://zeldinha00.github.io/Tela-de-Login/
+:point_right: https://zeldinha00.github.io/Tela-de-login01/
